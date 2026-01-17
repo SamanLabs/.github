@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="SamanLabs Ecosystem" width="100%" alt="SamanLabs Github" src="https://github.com/user-attachments/assets/a629ce8f-14e0-480c-a2ab-7728934a9ee5" />
+<img alt="SamanLabs Ecosystem" width="100%" alt="SamanLabs Github 3" src="https://github.com/user-attachments/assets/2fc31cf7-da18-430a-90b4-973705d4be8c" />
 
   <h1>SamanLabs</h1>
   
